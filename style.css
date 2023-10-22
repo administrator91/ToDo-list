@@ -9,7 +9,7 @@
 body {
   font-family: "Poppins", sans-serif;
   padding: 2rem;
-  background: #f4f6fd;
+  background: #D6EAF8;
 }
 
 h1.hover-effect {
@@ -40,13 +40,13 @@ h2 {
   }
 
 .container {
-  max-width: 400px;
+  max-width: 360px;
   margin: auto;
 }
 
 .todo-form {
   background: #fff;
-  padding: 16px;
+  padding: 12px;
   border-radius: 8px;
   box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
   display: flex;
@@ -57,9 +57,10 @@ h2 {
 .todo-form input {
   flex: 1;
   padding: 8px 16px;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
   border: none;
   outline: none;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .todo-form button {
@@ -88,7 +89,7 @@ h2 {
   color: #373b5e;
   font-weight: 500;
   font-size: 1rem;
-  padding: 12px 16px;
+  padding: 10px 12px;
   border-radius: 8px;
   box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
   margin-top: 8px;
