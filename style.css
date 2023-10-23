@@ -57,10 +57,10 @@ h2 {
 .todo-form input {
   flex: 1;
   padding: 8px 16px;
-  font-size: 1.0rem;
+  font-size: 0.9rem;
   border: none;
   outline: none;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Times New Roman', Times, serif;
 }
 
 .todo-form button {
